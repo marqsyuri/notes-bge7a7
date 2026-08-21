@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marqsyuri.github.io/notes-bge7a7/sitemap.xml
